@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-mostofa-kamal-1547251b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mostofa-kamal-1547251b7/" height="30" width="40" /></a>
+  <a href="https://profiles.wordpress.org/mdmostak/" target="blank"><img align="center" src="https://w1.pngwing.com/pngs/679/858/png-transparent-social-media-icons-wordpress-blog-logo-blogger-pantheon-multisite-meetup.png" alt="md-mostofa-kamal-1547251b7/" height="30" width="40" /></a>
 <a href="https://fb.com/mdmostofakamal.mostak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmostofakamal.mostak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mostak360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md mostofa kamal" height="30" width="40" /></a>
 </p>
