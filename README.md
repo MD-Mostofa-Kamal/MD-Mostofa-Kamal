@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20295
-Fork on GitHub
-6187
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm MD Mostofa Kamal</h1>
 <h3 align="center">professional website developer, WordPress theme and plugin developer, and SEO expert.</h3>
 
@@ -25,13 +10,13 @@ preview
 
 - 📫 How to reach me **mostofa.bd7997@gmail.com**
 
-- 📄 Know about my experiences [https://huf.com](https://huf.com)
+- 📄 Know about my experiences [Softvelly.com](softvelly.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/httmd-mostofa-kamal-1547251b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httmd-mostofa-kamal-1547251b7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mostofa-kamal-1547251b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mostofa-kamal-1547251b7/" height="30" width="40" /></a>
 <a href="https://fb.com/mdmostofakamal.mostak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmostofakamal.mostak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md mostofa kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md mostofa kamal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mostak360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md mostofa kamal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,27 +27,3 @@ preview
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mostofa-kamal&show_icons=true&locale=en&layout=compact" alt="md-mostofa-kamal" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
